@@ -1,0 +1,7 @@
+jamesbeedyblog:
+  django_version: 'Django==1.9'
+  vcs: 'git'
+  repos_url: 'https://github.com/jamesbeedy/jamesbeedyblog.git'
+  repos_branch: 'juju_django_dev'
+  application_path: 'jamesbeedyblog_app'
+  django_settings: 'jamesbeedyblog_app.settings'
