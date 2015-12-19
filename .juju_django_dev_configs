@@ -4,5 +4,5 @@ jamesbeedyblog:
   repos_url: 'https://github.com/jamesbeedy/jamesbeedyblog.git'
   repos_branch: 'juju_django_dev'
   application_path: 'jamesbeedyblog_app'
-  django_settings: 'jamesbeedyblog_app.settings'
+  django_settings: 'jamesbeedyblog.settings'
   settings_injection_path: 'settings/__init__.py'
