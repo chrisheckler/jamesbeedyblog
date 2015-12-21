@@ -6,5 +6,5 @@ jamesbeedyblog:
   application_path: 'jamesbeedyblog'
   django_settings: 'jamesbeedyblog.settings'
   settings_injection_path: 'settings/__init__.py'
-  urls_injection_path: ''
+  urls_dir_name: ''
   requirements_pip_files: 'requirements.txt'
